@@ -24,7 +24,7 @@ I also create games as a hobby.
 ## 🌱 My skills
 ![my skills](https://skillicons.dev/icons?theme=light&perline=7&i=js,ts,html,css,cs,ruby,unity,webpack,babel,codepen,git,github,mysql,regex)
 
-## 🎮 My Games
+## 🎮 My games
 I created a Touhou Project fan games using Unity.
 
 ### ![thmagic_Icon](assets/thmagic_Icon.png) 東方魔法陣連打(Touhou Mahoujinrenda)
